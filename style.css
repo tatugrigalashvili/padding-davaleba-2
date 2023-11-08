@@ -1,9 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
 .box1{
     width: 550px;
     height: 550px;
     background-color: #FFF;
     border: 1px solid #B4B4B4;
-    
+    padding-left: 60px;
 }
 .image{
     background-image: url(img.png);
@@ -14,13 +18,8 @@
 }
 .text{
     color: #808080;
-    padding-left: 60px;
+}
+.link{
+    margin-bottom: 60px;
+}
 
-}
-.title{
-    padding-left: 60px;
-}
-a.link{
-    margin-left: 60px;
-    margin-bottom:200px;
-}
