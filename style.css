@@ -8,9 +8,9 @@
     background-color: #FFF;
     border: 1px solid #B4B4B4;
     padding-left: 60px;
+    padding-bottom: 200px;
 }
 .image{
-    background-image: url(img.png);
     width:  305px;
     height: 226px;
     margin-bottom: 200px;
