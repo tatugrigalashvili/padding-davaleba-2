@@ -7,17 +7,22 @@
     height: 550px;
     background-color: #FFF;
     border: 1px solid #B4B4B4;
-    padding-left: 60px;
-    padding-bottom: 200px;
+    padding-left: 119px;
     
 }
 .image{
     width:  305px;
     height: 226px;
-    margin-bottom: px;
+    margin-right: 126px;
+    margin-bottom: 202px;
 }
 .text{
     color: #808080;
 }
-
-
+.title{
+   margin-top: 96px;
+   margin-right: 118px;
+}
+.text{
+    margin-bottom: 118px;
+}
